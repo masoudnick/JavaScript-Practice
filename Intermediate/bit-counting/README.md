@@ -3,4 +3,4 @@ This challenge involves creating a function `countBits(n)` that takes an integer
 
 ### Example Usage:  
 ```javascript
-countBits(1234); // Binary: 10011010010 Bits: 5
+countBits(1234); // Binary: 10011010010 / Bits: 5
